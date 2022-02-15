@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T06:46:08.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="Q334bhv98QJCgZIiS6ep" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T00:58:01.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="Jsl0kVaN81o9c7a3sVye" version="16.5.6" type="github">
   <diagram id="WOmS6yPEjxkBWDvMYfNl" name="Page-1">
     <mxGraphModel dx="1106" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="J6Z3erHDke6nYLobNoPc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J6Z3erHDke6nYLobNoPc-3" source="J6Z3erHDke6nYLobNoPc-10" target="J6Z3erHDke6nYLobNoPc-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J6Z3erHDke6nYLobNoPc-10" value="文件配置" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="J6Z3erHDke6nYLobNoPc-3" vertex="1">
+        <mxCell id="J6Z3erHDke6nYLobNoPc-10" value="基础配置" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="J6Z3erHDke6nYLobNoPc-3" vertex="1">
           <mxGeometry x="12" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J6Z3erHDke6nYLobNoPc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J6Z3erHDke6nYLobNoPc-3" source="J6Z3erHDke6nYLobNoPc-12" target="J6Z3erHDke6nYLobNoPc-14" edge="1">
@@ -42,7 +42,7 @@
             <mxPoint x="62" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J6Z3erHDke6nYLobNoPc-14" value="基础配置" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="J6Z3erHDke6nYLobNoPc-3" vertex="1">
+        <mxCell id="J6Z3erHDke6nYLobNoPc-14" value="文件配置" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="J6Z3erHDke6nYLobNoPc-3" vertex="1">
           <mxGeometry x="12" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J6Z3erHDke6nYLobNoPc-33" value="数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="J6Z3erHDke6nYLobNoPc-3" vertex="1">
@@ -54,7 +54,7 @@
         <mxCell id="J6Z3erHDke6nYLobNoPc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="J6Z3erHDke6nYLobNoPc-4" source="J6Z3erHDke6nYLobNoPc-25" target="J6Z3erHDke6nYLobNoPc-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J6Z3erHDke6nYLobNoPc-25" value="商品数据同步" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="J6Z3erHDke6nYLobNoPc-4" vertex="1">
+        <mxCell id="J6Z3erHDke6nYLobNoPc-25" value="定时触发脚本" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="J6Z3erHDke6nYLobNoPc-4" vertex="1">
           <mxGeometry x="10" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J6Z3erHDke6nYLobNoPc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J6Z3erHDke6nYLobNoPc-4" source="J6Z3erHDke6nYLobNoPc-28" target="J6Z3erHDke6nYLobNoPc-34" edge="1">
