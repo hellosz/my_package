@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T05:01:58.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="XWdEXToCzmZjgbxDeolA" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T05:04:25.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="b-5LzkFVT7ml-8z20w5l" version="20.0.1" type="github">
   <diagram id="ijOkDj3xmsa6q4gNwSR1" name="Page-1">
     <mxGraphModel dx="2466" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-62.10000000000002" y="180" width="446" height="880" as="geometry" />
         </mxCell>
         <mxCell id="gu66XJuYQn7hONuRlSZh-109" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;labelBackgroundColor=#FFD966;labelBorderColor=#FFD966;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="397.4" y="178" width="972.6" height="880" as="geometry" />
+          <mxGeometry x="397.4" y="178" width="1262.6" height="880" as="geometry" />
         </mxCell>
         <mxCell id="gu66XJuYQn7hONuRlSZh-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=default;" parent="1" source="gu66XJuYQn7hONuRlSZh-3" target="gu66XJuYQn7hONuRlSZh-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="387" y="160" />
-              <mxPoint x="637" y="160" />
+              <mxPoint x="1091" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -136,11 +136,8 @@
         <mxCell id="gu66XJuYQn7hONuRlSZh-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.elasticLoadBalancing;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="127.38" y="200" width="62.61" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gu66XJuYQn7hONuRlSZh-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=default;" parent="1" source="gu66XJuYQn7hONuRlSZh-21" target="gu66XJuYQn7hONuRlSZh-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gu66XJuYQn7hONuRlSZh-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.elasticLoadBalancing;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="606" y="198" width="62.61" height="60" as="geometry" />
+          <mxGeometry x="1060" y="195" width="62.61" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gu66XJuYQn7hONuRlSZh-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeColor=default;" parent="1" source="gu66XJuYQn7hONuRlSZh-22" target="gu66XJuYQn7hONuRlSZh-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -246,7 +243,7 @@
           <mxGeometry x="128.69" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gu66XJuYQn7hONuRlSZh-81" value="ELB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="608.61" y="258" width="60" height="30" as="geometry" />
+          <mxGeometry x="1060" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gu66XJuYQn7hONuRlSZh-83" value="API Gateway x2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="103.64" y="390" width="110.1" height="30" as="geometry" />
